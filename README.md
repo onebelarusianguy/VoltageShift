@@ -1,6 +1,8 @@
 Disable Turbo, set PL1 PL2
 ```
 sudo ./voltageshift buildlaunchd  0 0 0 0 0 0 0 10 12 0 0 0
+
+./voltageshift loadkext
 ```
 
 
